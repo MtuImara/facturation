@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "server.servelet.contextPath",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servelet.contextPath'"
+  },
+  {
+    "name": "server.servelet.contextPath",
+    "type": "java.lang.String",
+    "description": "A description for 'server.servelet.contextPath'"
+  },
+  {
+    "name": "com.obr.facturation.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.jwtSecret'"
+  },
+  {
+    "name": "com.obr.facturation.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.jwtExpirationMs'"
+  },
+  {
+    "name": "com.obr.facturation.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.jwtSecret'"
+  },
+  {
+    "name": "com.obr.facturation.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.jwtSecret'"
+  },
+  {
+    "name": "com.obr.facturation.app.jwtExpirationMs",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.app.jwtExpirationMs'"
+  },
+  {
+    "name": "com.obr.facturation.app.jwtSecret",
+    "type": "java.lang.String",
+    "description": "A description for 'com.obr.facturation.app.jwtSecret'"
+  }
+]}
